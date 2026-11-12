@@ -1,0 +1,20 @@
+{
+  "name": "Cast from Paradise",
+  "chapters": [
+    { "name": "Introduction", "file": "Introduction.json" },
+    { "name": "First Day", "file": "First Day.json" },
+    { "name": "First Night", "file": "First Night.json" },
+    { "name": "Second Day", "file": "Second Day.json" },
+    { "name": "Second Night", "file": "Second Night.json" },
+    { "name": "Third Day", "file": "Third Day.json" },
+    { "name": "Third Night", "file": "Third Night.json" },
+    { "name": "Fourth Day", "file": "Fourth Day.json" },
+    { "name": "Fourth Night", "file": "Fourth Night.json" },
+    { "name": "Fifth Day", "file": "Fifth Day.json" },
+    { "name": "Fifth Night", "file": "Fifth Night.json" },
+    { "name": "Sixth Day", "file": "Sixth Day.json" },
+    { "name": "Sixth Night", "file": "Sixth Night.json" },
+    { "name": "Final Day", "file": "Final Day.json" },
+  ],
+  "format": "json"
+}
