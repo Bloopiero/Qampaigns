@@ -15,7 +15,7 @@
     { "name": "Sixth Day", "file": "Sixth Day.json" },
     { "name": "Sixth Night", "file": "Sixth Night.json" },
     { "name": "Final Day", "file": "Final Day.json" },
-    { "name": "The Beach", "file": "The Beach.json" },
+    { "name": "The Beach", "file": "The Beach.json" }
   ],
   "format": "json"
 }
